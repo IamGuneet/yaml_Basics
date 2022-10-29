@@ -1,0 +1,22 @@
+# yaml is lang to represent data 
+
+"apple" : "im a fruit"
+1: "this is Kunals roll number"
+---
+# //list
+- apple
+- Apple
+- mango
+- bannana 
+---
+# block style
+cities:
+- new dehli
+- hyderabad
+- mumbai
+---
+# flowtype
+cities: [new delhi,mumbai]
+---
+{mango: "yello",age : 50}
+...

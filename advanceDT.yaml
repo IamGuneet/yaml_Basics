@@ -1,0 +1,26 @@
+student: !!seq
+- marks
+- name
+- id
+- class
+- 
+- null
+
+# nested sequence
+-
+  - hello
+  - hi
+  - koi nah
+- 
+  - hello
+  - hi
+  - koi nah
+
+
+pair example: !!pairs
+-job: std
+-job: tch
+
+
+
+

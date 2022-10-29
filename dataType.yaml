@@ -1,0 +1,36 @@
+# string
+name: guneet singh
+fruit : "apple"
+fruit : 'orange'
+
+# multi line
+bio : |
+hello my name is guneet singh.
+iam a student.
+
+# single line
+message: >
+this all
+is in one line
+
+number: 5473
+marks: 98.03
+ boolValue: No 
+# n,N,false,False,FALSE
+
+# specify data type
+zero: !!int 0
+
+maarks: !!float 56.88
+infinite: !!float .inf
+
+not a num: .nan
+
+boolean: !!bool yes
+
+string: !!str guneet
+
+#null ~/null/NULL
+surname: !!null Null 
+
+# dates and time 
